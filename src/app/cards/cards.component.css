@@ -1,0 +1,9 @@
+.card{
+	box-shadow: 5px 5px 5px 3px silver;
+}
+
+.card:hover{
+	animation-name: helo;
+	animation-duration: 5s;
+	animation-delay: .2s;
+}
